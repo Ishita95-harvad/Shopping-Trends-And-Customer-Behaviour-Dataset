@@ -1,5 +1,5 @@
 # Shopping-Trends-And-Customer-Behaviour-Dataset
-![Image](
+![Image](https://github.com/Ishita95-harvad/Shopping-Trends-And-Customer-Behaviour-Dataset/blob/main/dataset-cover.jpg)
 
 The README file for the Shopping-Trends-And-Customer-Behaviour-Dataset provides an overview of the dataset, including its purpose, structure, and key features. Based on available sources, here’s what you can expect:
  
